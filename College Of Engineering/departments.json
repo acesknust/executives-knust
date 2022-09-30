@@ -1,0 +1,23 @@
+{
+    "departments":[
+        {
+            "name":"Department Of Computer Engineering",
+            "student_association": "Association Of Computer Engineering Students"
+
+        },
+        {
+            "name":"Department Of Electrical and Electronic Engineering"
+        },
+        {
+            "name":"Department Of Telecommunication Engineering"
+        },
+        {
+            "name":"Department Of Biomedical Engineering",
+            "student_association": "Biomedical Engineering Students Society"
+        },
+        {
+            "name":"Department Of Computer Engineering"
+        }
+
+    ]
+}
